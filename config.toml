@@ -1,4 +1,4 @@
-baseURL = "https://fizkabinet-lviv.github.io/site/"
+baseURL = "http://best-hits.info"
 languageCode = "ua"
 title = "Лікування "
 theme = "hugo-initio"
