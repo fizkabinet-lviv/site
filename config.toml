@@ -1,4 +1,4 @@
-baseURL = "https://miguelsimoni.github.io/hugo-initio-site/"
+baseURL = "https://fizkabinet-lviv.github.io/site/"
 languageCode = "ua"
 title = "Лікування "
 theme = "hugo-initio"
