@@ -12,26 +12,14 @@
   </url>
   
   <url>
-    <loc>http://best-hits.info/service/service3/</loc>
-  </url>
-  
-  <url>
     <loc>http://best-hits.info/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://best-hits.info/service/service1/</loc>
   </url>
   
   <url>
     <loc>http://best-hits.info/post/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://best-hits.info/service/service4/</loc>
   </url>
   
   <url>
@@ -45,13 +33,25 @@
   </url>
   
   <url>
-    <loc>http://best-hits.info/service/service2/</loc>
+    <loc>http://best-hits.info/service/service3/</loc>
   </url>
   
   <url>
     <loc>http://best-hits.info/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://best-hits.info/service/service2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://best-hits.info/service/service1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://best-hits.info/service/service4/</loc>
   </url>
   
 </urlset>

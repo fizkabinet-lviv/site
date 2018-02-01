@@ -1,9 +1,14 @@
 +++
-title = "Wordpress integration"
+title = "Неврологія"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
-
+- Періартрит плече-лопатковий
+- Міофасцільні тригерні точки
+- Цервікальгія, цервікобрахілгія (біль у шиї)
+- Тораколгія (біль у грудному відділі хребта)
 <!--more-->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Тригерні точки, болі в м’язах (всі види). Дискогенні порушення
+- Болі в спині, шиї, плечі. Напружені м’язи, м’язевотонічний синдром
+- Шийна мігрень. Біль говори м’язевої напруги
+- Синдром грушеподібних м’язів. Тунельні синдроми
+- Контрактура Дюпюітрена. М’язовий постінсультний гіпертонус. Гіпертонуси при ДЦП

@@ -1,9 +1,24 @@
 +++
-title = "Custom website design"
+title = "Травматологія"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
-
+- Кальцифіуючий тендиніт.
+- Хронічний біль у плечі 
+- Імпіджмент – синдром
+- Артроз (деформуючий остеоартроз, деформуючий артроз)
 <!--more-->
+Тендиніт наколінника
+Бурсит вертела тазостегнового суглоба, колінної чашечки і ліктьового відростка.
+Уповільнена консолідація переломів (псевдоартроз), метотарзалгія . Гостра і хронічна дорсалгія.
+Травми шиї (удар по типу хлиста).
+Спортивні травми, в.т.ч. в під гострому періоді;
+Променево-ліктьовий епікондиліт. «Тенісний лікоть». «Лікоть гольфіста».
+Синдром зап’ястного каналу. Трохантеріт. Вертельний бурсит. Проксимальний клубово- великогомілковий синдром.
+Асептичний некроз головки стегнової кістки, асептичні некрози кісток.
+Розсікаючий остеохондрит. Хондропатії наколінника. Коліно стрибуна.
+Великогомілковий стрес-синдром («розколота гомілка»).
+П’яткова шпора, біль у п’яті (гостра і хронічна).
+Ахілодінія. Плоскостопість. Деформація 1 пальця стопи.
+Травми м’язів і сухожилків. Постімобілізаціонні контрактури в суглобах.
+Тривало не зростаючі переломи, псевдоартрози.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
