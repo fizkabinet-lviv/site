@@ -1,4 +1,4 @@
-baseURL = "http://best-hits.info"
+baseURL = "http://best-hits.info/"
 languageCode = "ua"
 title = "Лікування "
 theme = "hugo-initio"
@@ -7,9 +7,9 @@ publishDir = "docs"
 [params]
     name = "Фізкабінет лікування болю"
     description = "лікування болю фізкабінет"
-    email = "anthony.russel42@example.com"
+    email = "fz@example.com"
     phone = "+234 23 9873237"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    address = ""
     year = 2017
     background = ""
     favicon = "images/gt_favicon.png"
