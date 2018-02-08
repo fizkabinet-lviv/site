@@ -3,55 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://best-hits.info/about/</loc>
+    <loc>http://antidolor.lviv.ua/about/</loc>
   </url>
   
   <url>
-    <loc>http://best-hits.info/post/chronic-pain/</loc>
+    <loc>http://antidolor.lviv.ua/post/chronic-pain/</loc>
     <lastmod>2017-06-17T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://best-hits.info/categories/</loc>
+    <loc>http://antidolor.lviv.ua/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://best-hits.info/post/</loc>
-    <lastmod>2017-06-17T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://best-hits.info/service/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://best-hits.info/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://best-hits.info/service/service3/</loc>
-  </url>
-  
-  <url>
-    <loc>http://best-hits.info/service/service2/</loc>
-  </url>
-  
-  <url>
-    <loc>http://best-hits.info/</loc>
+    <loc>http://antidolor.lviv.ua/post/</loc>
     <lastmod>2017-06-17T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://best-hits.info/service/service1/</loc>
+    <loc>http://antidolor.lviv.ua/service/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://best-hits.info/service/service4/</loc>
+    <loc>http://antidolor.lviv.ua/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://antidolor.lviv.ua/service/service3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://antidolor.lviv.ua/service/service2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://antidolor.lviv.ua/</loc>
+    <lastmod>2017-06-17T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://antidolor.lviv.ua/service/service1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://antidolor.lviv.ua/service/service4/</loc>
   </url>
   
 </urlset>
