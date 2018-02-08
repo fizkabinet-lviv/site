@@ -10,8 +10,10 @@
 
 	<link rel="shortcut icon" href="{{ .Site.BaseURL }}{{ .Site.Params.favicon }}">
 
-	<!-- Bootstrap -->
+	<!-- Bootstrap-->
 	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
+	
+		
 	<!-- Icons -->
 	<link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 	<!-- Fonts -->
@@ -33,11 +35,12 @@
 <header id="header">
 	<div id="head" class="parallax" parallax-speed="2">
 		<h1 id="logo" class="text-center">
-			<img class="img-circle" src="{{ .Site.BaseURL }}images/guy.jpg" alt="">
+			<img class="img-circle" src="{{ .Site.BaseURL }}img/guy.jpg" alt="">
 			<span class="title">{{ .Site.Params.name }}</span>
-			<span class="tagline">{{ .Site.Params.description }}<br>
-				<a href="">{{ .Site.Params.email }}</a>
-            </span>
+			<span class="tagline">{{ .Site.Params.description }}<br></span>
+			<span class="address">{{ .Site.Params.address }}<br></span>
+			<span class="address"><a href="tel:{{ .Site.Params.phone_link}}">{{ .Site.Params.phone }}</a></span>
+			<span class="address"><a href="tel:{{ .Site.Params.phone_link2}}">{{ .Site.Params.phone2 }}</a></span>
 		</h1>
 	</div>
 

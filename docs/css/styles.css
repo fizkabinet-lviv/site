@@ -262,7 +262,7 @@ a:hover {
   color: #5E5E5E;
 }
 .home #head {
-  padding: 90px 0;
+  padding: 25px 0;
 }
 .home #head .title {
   font-size: 49px;
@@ -273,6 +273,15 @@ a:hover {
   font-size: 1rem;
   margin: 15px 0 0;
 }
+
+.home #head .address {
+  font-size: 16px;
+  font-size: 1rem;
+  margin: 10px 0 0;
+  color: #5E5E5E;
+  display: block;
+}
+
 /*********************************************************************
 
 
@@ -568,6 +577,7 @@ img {
 }
 .entry-content {
   margin: 0 0 60px 0;
+  text-align: justify;
 }
 .entry-content h2 {
   line-height: 1.2;
@@ -826,4 +836,8 @@ footer.entry-meta .meta-in {
    &:hover, &:focus {
       color: #004488;
    }
+}
+
+.text-justify {
+  text-align: justify;
 }
