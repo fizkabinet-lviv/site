@@ -3,22 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://antidolor.lviv.ua/pronas/</loc>
+    <loc>http://antidolor.lviv.ua/pro-nas/</loc>
+  </url>
+  
+  <url>
+    <loc>http://antidolor.lviv.ua/post/radikulit/</loc>
+    <lastmod>2018-02-11T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://antidolor.lviv.ua/post/pyatkova-shpora/</loc>
-    <lastmod>2017-06-17T12:00:00+00:00</lastmod>
+    <lastmod>2018-02-11T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://antidolor.lviv.ua/post/keloid/</loc>
+    <lastmod>2018-02-11T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://antidolor.lviv.ua/post/psorias/</loc>
+    <lastmod>2018-02-11T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://antidolor.lviv.ua/post/periartryt/</loc>
-    <lastmod>2017-06-17T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://antidolor.lviv.ua/post/chronic-pain/</loc>
-    <lastmod>2017-06-17T12:00:00+00:00</lastmod>
+    <lastmod>2018-02-07T12:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,7 +38,7 @@
   
   <url>
     <loc>http://antidolor.lviv.ua/post/</loc>
-    <lastmod>2017-06-17T12:00:00+00:00</lastmod>
+    <lastmod>2018-02-11T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -52,7 +62,7 @@
   
   <url>
     <loc>http://antidolor.lviv.ua/</loc>
-    <lastmod>2017-06-17T12:00:00+00:00</lastmod>
+    <lastmod>2018-02-11T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
