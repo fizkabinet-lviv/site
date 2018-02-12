@@ -7,7 +7,7 @@ publishDir = "docs"
 [params]
     name = "Позбавлення від болю"
     description = "Фізіотерапевтичний кабінет. Лікування болю. Ударно-хвильова терапія"
-    email = "TBD"
+    email = "antidolor.lviv@gmail.com"
     phone = "+38 (068) 878-70-74"
 	phone_link="+38-068-878-70-74"
 	phone2 = "+38 (098) 868-40-60"
@@ -20,9 +20,9 @@ publishDir = "docs"
 
     showSubheader = true
     showServices = true
-    showRecentWorks = true
-    showDownload = true
-    showClients = true
+    showRecentWorks = false
+    showDownload = false
+    showClients = false
 
     footerEnableContact = true
     footerEnableFollowme = true
@@ -50,14 +50,14 @@ publishDir = "docs"
 
 [[params.social]]
 	title = "facebook"
-	url = "https://www.facebook.com/nickname"
+	url = "TBD"
     icon = "fa-facebook-square"
     footer = true
     sharethis = true
     network = "facebook"
 [[params.social]]
 	title = "email"
-	url = "mailto:some.email@somewhere.com"
+	url = "mailto:antidolor.lviv@gmail.com"
     icon = "fa-envelope"
     footer = false
     sharethis = true
