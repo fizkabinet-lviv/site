@@ -7,4 +7,7 @@ content - СТАТТІ
 content/post - !!
 static/images - картинки
 
+
+Створити новий файл в тотал командері - Shift+F4
+
  
