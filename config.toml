@@ -4,6 +4,15 @@ title = "Позбавлення від болю"
 theme = "hugo-initio"
 publishDir = "docs"
 
+# Pagination
+paginate =5
+
+
+
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+
 [params]
     name = "Позбавлення від болю"
     description = "Фізіотерапевтичний кабінет. Лікування болю. Ударно-хвильова терапія"
