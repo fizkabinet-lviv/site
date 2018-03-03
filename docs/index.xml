@@ -6,7 +6,7 @@
     <description>Recent content on Позбавлення від болю</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ua</language>
-    <lastBuildDate>Sat, 03 Mar 2018 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Mar 2018 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://antidolor.lviv.ua/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,11 +21,11 @@
     </item>
     
     <item>
-      <title>cervikalhiya</title>
-      <link>http://antidolor.lviv.ua/post/cervikalhiya-/</link>
-      <pubDate>Sat, 03 Mar 2018 12:00:00 +0000</pubDate>
+      <title>Цервікальні болі</title>
+      <link>http://antidolor.lviv.ua/post/cervikalhiya/</link>
+      <pubDate>Fri, 02 Mar 2018 12:00:00 +0000</pubDate>
       
-      <guid>http://antidolor.lviv.ua/post/cervikalhiya-/</guid>
+      <guid>http://antidolor.lviv.ua/post/cervikalhiya/</guid>
       <description>Шийний радикуліт. Це друге по частоті захворювання після поперекового радикуліту. Основні причини: ураження корінців спинного мозку внаслідок остеохондрозу, після травм, тривалого і статичного напруження, нейроінфекції, інтоксикації.
 Діагностика шийного радикуліту. Ураження С1- С4 корінців проявляється болями в потиличній ділянці і біля сосцевидного паростка, які посилюються під час повороту голови. При ураженні С5 хворі відчувають болі в шиї, надпліччі, на зовнішній частині плеча. Тут же буде гіперестезія, слабкість і атрофія дельтоподібного м’яза.</description>
     </item>
@@ -106,6 +106,16 @@
     </item>
     
     <item>
+      <title> Вивих плеча звичний</title>
+      <link>http://antidolor.lviv.ua/post/vyvich/</link>
+      <pubDate>Fri, 02 Feb 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://antidolor.lviv.ua/post/vyvich/</guid>
+      <description>Вивих - це повне зміщення суглобових поверхонь кісток за межі фізіологічної норми. При цьому завжди порушується цілісність суглобової сумки. Розрізняють травматичні, звичні, патологічні та вроджені вивихи.
+Ознаки та протікання вивиху. Біль в плечовому суглобі, неможливість рухів. Звичний вивих виникає в результаті: а) коли вивих не вправляється на протязі 2-х годин і не професійно лікується; б) від недостатнього знеболення під час вправляння першого вивиху і застосування грубих маніпуляцій, які пере- розтягнули капсулу і зв’язки суглоба; г) недостатня або неправильна іммобілізація суглобу; д) внаслідок передчасного фізичного навантаження після вивиху.</description>
+    </item>
+    
+    <item>
       <title>Дерматологія</title>
       <link>http://antidolor.lviv.ua/service/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -129,7 +139,7 @@
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/periartryt/&#34;&gt;Періартрит плече-лопатковий&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/radikulit/&#34;&gt;Біль в попереку&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/nevritis/&#34;&gt;Невріт лицевого нерва&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Цервікальгія, цервікобрахілгія&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/cervikalhiya/&#34;&gt;Цервікальгія&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Тораколгія (біль у грудному відділі хребта)</description>
     </item>
     
@@ -142,7 +152,7 @@
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/pyatkova-shpora/&#34;&gt;П’яткова шпора&lt;/a&gt;, біль у п’яті (гостра і хронічна).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/osteoartroz/&#34;&gt;Деформуючий остеоартроз&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Хронічний біль у плечі&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/vyvich/&#34;&gt;Звичний вивих плеча&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Тендиніт наколінника&lt;/li&gt;
 &lt;li&gt;Променево-ліктьовий епікондиліт</description>
     </item>
