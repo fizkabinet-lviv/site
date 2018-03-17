@@ -58,12 +58,12 @@ paginate =5
     trackerID = ""
 
 [[params.social]]
-	title = "facebook"
-	url = "TBD"
-    icon = "fa-facebook-square"
+	title = "Сюжет на YouTube каналі Формула Здоров'я"
+	url = "https://youtu.be/6BDKVrv2g3o?t=90"
+    icon = "fa-youtube-square"
     footer = true
     sharethis = true
-    network = "facebook"
+    network = "youtube"
 [[params.social]]
 	title = "email"
 	url = "mailto:antidolor.lviv@gmail.com"

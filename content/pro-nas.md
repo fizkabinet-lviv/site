@@ -15,6 +15,8 @@ weight = 10
 - доступна цінова політика
 - широкий спектр послуг
 
+<iframe width="854" height="480" src="https://www.youtube.com/embed/6BDKVrv2g3o?start=90" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 #### Як добратись міським транспортом:
 
 - трамвай №2 або №7 до зупинки *"Обласна клінічна лікарня"*
