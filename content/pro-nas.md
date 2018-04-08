@@ -15,9 +15,10 @@ weight = 10
 - доступна цінова політика
 - широкий спектр послуг
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/6BDKVrv2g3o?start=90" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.cm/embed/6BDKVrv2g3o?start=90" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### Як добратись міським транспортом:
 
-- трамвай №2 або №7 до зупинки *"Обласна клінічна лікарня"*
-- автобус №№ 18, 24, 29, 36, 39, 50, 5А, 102, 105, 110,147, 217А до зупинки *"Обласна клінічна лікарня"*
+- трамвай №3 або №5 до зупинки *"Аквапарк"*
+- автобус №№ 10, 25, 32, 37, 7, 51, 45, 14, 41, до зупинки *"вул. Тролейбусна"*
+- тролейбус № 2 до зупинки *"вул. Тролейбусна"*
