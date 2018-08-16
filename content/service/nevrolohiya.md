@@ -2,7 +2,7 @@
 title = "Неврологія"
 +++
 
-- [Невріти та поліневропатії ]({{< relref "polinevritis.md" >}})[Періартрит плече-лопатковий]({{< relref "periartryt.md" >}})
+- [Невріти та поліневропатії ]({{< relref "polinevritis.md" >}})
 - [Біль в попереку] ({{< relref "radikulit.md" >}})
 - [Невріт лицевого нерва]({{< relref "nevritis.md" >}})
 - [Біль в шиї]({{< relref "cervikalhiya.md" >}}) 
