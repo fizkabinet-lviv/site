@@ -7,6 +7,7 @@ title = "Неврологія"
 - [Невріт лицевого нерва]({{< relref "nevritis.md" >}})
 - [Біль в шиї]({{< relref "cervikalhiya.md" >}})
 - [Біль в грудній клітці]({{< relref "torakalhiya.md" >}})
+- [Лікування інсультів]({{< relref "insult.md" >}})
 <!--more-->
 - [Періартрит плече-лопатковий]({{< relref "periartryt.md" >}})
 - Дискогенні порушення
