@@ -1,6 +1,6 @@
 baseURL = "http://antidolor.lviv.ua/"
 languageCode = "ua"
-title = "Позбавлення від болю"
+title = "Медичний центр Родовід"
 theme = "hugo-initio"
 publishDir = "docs"
 
@@ -14,15 +14,17 @@ paginate =5
   fractions = false
 
 [params]
-    name = "Позбавлення від болю"
-    description = "Фізіотерапевтичний кабінет. Лікування болю. Ударно-хвильова терапія"
+    name = "Медичний центр Родовід"
+    description = "Фізіотерапевтичний кабінет: лікування болю, ударно-хвильова терапія"
     email = "antidolor.lviv@gmail.com"
     phone = "+38 (068) 878-70-74"
 	phone_link="+38-068-878-70-74"
 	phone2 = "+38 (098) 868-40-60"
 	phone_link2="+38-098-868-40-60"
     address = "Львів, вул. Наукова, 12а (медичний центр Істина)"
-    year = 2018
+    year = 2019
+	rodovid = "Медичний центр Родовід"
+	rodovid_url="http://rodovid.center/"
     background = ""
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
@@ -64,6 +66,13 @@ paginate =5
     footer = true
     sharethis = true
     network = "youtube"
+[[params.social]]
+	title = "Медичний центр Родовід"
+	url = "https://facebook.com/rodovid.center"
+    icon = "fa-facebook-square"
+    footer = true
+    sharethis = true
+	network = "facebook"
 [[params.social]]
 	title = "email"
 	url = "mailto:antidolor.lviv@gmail.com"

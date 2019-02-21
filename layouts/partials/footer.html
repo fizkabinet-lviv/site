@@ -8,7 +8,7 @@
 					<p>{{ .Site.Params.phone }}<br>
 						{{ .Site.Params.phone2 }}<br>
 						{{ .Site.Params.phone3 }}<br>
-						<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a><br>
+						<a href="{{ .Site.Params.rodovid_url }}" target="blank">{{ .Site.Params.rodovid }}</a><br>
 						<br>
 						{{ .Site.Params.address }}
 					</p>
@@ -22,9 +22,11 @@
 				<div class="widget-body">
                         {{ range .Site.Params.social }}
                             {{ if .footer }}
-							     {{ .title }}
+							<div class="social-icons">
 							<div class="follow-me-icons">
-                                <a href="{{ .url }}" target="_blank"><i class="fa {{ .icon }} fa-2"></i></a>
+                                <a href="{{ .url }}" target="_blank"><i class="fa {{ .icon }} fa-2"></i> </a>
+							</div>
+							<div class="social-title">{{ .title }} </div>
 							</div>
                             {{ end }}
                         {{ end }}

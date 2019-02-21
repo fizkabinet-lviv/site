@@ -3,7 +3,7 @@ title = "Неврологія"
 +++
 
 - [Невріти та поліневропатії ]({{< relref "polinevritis.md" >}})
-- [Біль в попереку] ({{< relref "radikulit.md" >}})
+- [Біль в попереку] ({{< relref "Radikulit.md" >}})
 - [Невріт лицевого нерва]({{< relref "nevritis.md" >}})
 - [Біль в шиї]({{< relref "cervikalhiya.md" >}})
 - [Лікування інсультів]({{< relref "insult.md" >}})

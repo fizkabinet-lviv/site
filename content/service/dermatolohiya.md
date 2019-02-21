@@ -3,7 +3,7 @@ title = "Дерматологія"
 +++
 
 - [Келоїдні рубці]({{< relref "keloid.md" >}})
-- [Псоріаз]({{< relref "psorias.md" >}})
+- [Псоріаз]({{< relref "Psorias.md" >}})
 - [Целюліт]({{< relref "zelulit.md" >}})
 - [Трофічні виразки] ({{< relref "vyrazka.md" >}})
 
