@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>http://antidolor.lviv.ua/post/udt/</loc>
+    <lastmod>2019-02-21T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://antidolor.lviv.ua/post/diskinesija/</loc>
     <lastmod>2019-01-15T12:00:00+00:00</lastmod>
   </url>
@@ -112,12 +117,6 @@
   </url>
   
   <url>
-    <loc>http://antidolor.lviv.ua/post/</loc>
-    <lastmod>2019-01-15T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://antidolor.lviv.ua/service/</loc>
     <priority>0</priority>
   </url>
@@ -132,13 +131,18 @@
   </url>
   
   <url>
+    <loc>http://antidolor.lviv.ua/</loc>
+    <lastmod>2019-02-21T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://antidolor.lviv.ua/service/nevrolohiya/</loc>
   </url>
   
   <url>
-    <loc>http://antidolor.lviv.ua/</loc>
-    <lastmod>2019-01-15T12:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://antidolor.lviv.ua/post/</loc>
+    <lastmod>2019-02-21T12:00:00+00:00</lastmod>
   </url>
   
   <url>

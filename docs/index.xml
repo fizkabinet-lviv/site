@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Позбавлення від болю</title>
+    <title>Медичний центр Родовід</title>
     <link>http://antidolor.lviv.ua/</link>
-    <description>Recent content on Позбавлення від болю</description>
+    <description>Recent content on Медичний центр Родовід</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ua</language>
-    <lastBuildDate>Tue, 15 Jan 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Feb 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://antidolor.lviv.ua/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,6 +18,15 @@
       
       <guid>http://antidolor.lviv.ua/pro-nas/</guid>
       <description>Hаші переваги:  професійні та висококваліфіковані спеціалісти з багаторічним досвідом роботи проходять регулярне навчання спеціалістів у провідних клініках України та Європи сучасне обладнання з програмним забезпеченням новітні методики лікування, які відповідають принципам доказової медицини орієнтація на комфорт клієнта та задоволення усіх його потреб проведення безболісних процедур турбота та піклування про здоров’я та самопочуття кожного клієнта доступна цінова політика широкий спектр послуг   Як добратись міським транспортом:  трамвай №3 або №5 до зупинки &amp;laquo;Аквапарк&amp;raquo; автобус №№ 10, 25, 32, 37, 7, 51, 45, 14, 41, до зупинки &amp;laquo;вул.</description>
+    </item>
+    
+    <item>
+      <title>Ударно-хвильова терапія</title>
+      <link>http://antidolor.lviv.ua/post/udt/</link>
+      <pubDate>Thu, 21 Feb 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://antidolor.lviv.ua/post/udt/</guid>
+      <description>Ударно-хвильова терапія, протипоказання. Вперше ударно-хвильову терапію почали використовувати в 1990-х роках в німецьких клініках. Німецькі травматологи з метою швидшого зростання кісток вирішили стимулювати їх ріст пневматичними ударами. Результат був позитивний. Цю ідею перейняли інші європейські клінічні центри. Методики і показання з роками вдосконалювались, створювались для цієї процедури спеціальні апарати. На сьогодні-це керовані, оснащені програмами, потужні прилади. Дія цієї методики базується на впливі акустичних хвиль низької частоти (25 герц і менше) та високої інтенсивності 1-5 бар на кВ/см.</description>
     </item>
     
     <item>
@@ -271,9 +280,8 @@
       <guid>http://antidolor.lviv.ua/service/urolohiya/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/prostatitis/&#34;&gt;Хронічний простатит&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Еректильна дисфункція судинного ґенезу&lt;/li&gt;
-&lt;li&gt;Асептичний простатит&lt;/li&gt;
-&lt;li&gt;Синдром хронічної тазевої болі.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/udt/&#34;&gt;Ударно-хвильова терапія&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Хвороба Пейроні.&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
