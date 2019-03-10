@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>http://antidolor.lviv.ua/post/simeyna-vyklyk/</loc>
+    <lastmod>2019-03-10T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://antidolor.lviv.ua/post/udt/</loc>
     <lastmod>2019-02-21T12:00:00+00:00</lastmod>
   </url>
@@ -132,7 +137,7 @@
   
   <url>
     <loc>http://antidolor.lviv.ua/</loc>
-    <lastmod>2019-02-21T12:00:00+00:00</lastmod>
+    <lastmod>2019-03-10T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -142,15 +147,15 @@
   
   <url>
     <loc>http://antidolor.lviv.ua/post/</loc>
-    <lastmod>2019-02-21T12:00:00+00:00</lastmod>
+    <lastmod>2019-03-10T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://antidolor.lviv.ua/service/simeyna/</loc>
   </url>
   
   <url>
     <loc>http://antidolor.lviv.ua/service/travmatologiya/</loc>
-  </url>
-  
-  <url>
-    <loc>http://antidolor.lviv.ua/service/urolohiya/</loc>
   </url>
   
 </urlset>
