@@ -14,7 +14,7 @@ weight = 10
 - медсестринська опіка
 - турбота та піклування про здоров’я та самопочуття кожного клієнта
 - доступна цінова політика
-- консультація лікаря телефоном
+- цілодобова консультація лікаря телефоном
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/6BDKVrv2g3o?start=90" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
