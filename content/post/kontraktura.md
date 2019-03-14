@@ -18,7 +18,7 @@ author = "Володимир Клімчук"
 В ранніх стадіях хвороби найбільш актуальне фізіотерапевтичне лікування.
 Завдання фізіотерапії направлене на покращення кровообігу і живлення тканин долоні, затримку розвитку фіброзно-рубцевого процесу, відновлення функціональної здатності пальців кисті. 
 
-##### Фізіотерапевтичні методи лікування: 
+##### [Фізіотерапевтичні](https://www.facebook.com/rodovid.center/photos/a.410236529721921/413469469398627/?type=3&__xts__%5B0%5D=68.ARAnAy5rVV2zMxwjYridYNFCpPKCa-SL-Wyhp48uvr37o-fVC-RSdSWNddjiD_PSMvjPmsKqmNSvfN5uSxy08nKp6bLZrKiZBSZnIcX45x_LKPBAB1Bj2VEMQjRFl83NXOXvOR6WoSdyvz7EgUtWW_8C7AREE-0nqGv_k7lownwm7KvLlFpklXycqr5FgQIzsl26jHwj0sF4xQXvHiuyraA6lqo2w3Pzi9Iweb-NjNYpMYZ9MS4Ag0JRyTFMjiTwNLRy9e5IjyvBrpyncAI0AsjKsoBggXHSwJxR5Mb3iy78Mx_ENOohvMGUi2bK0ZyeeSMsylnfS2Opt38tlHlgyoE&__tn__=-R) методи лікування: 
 
 * Діодинамотерапія на ділянку апоневрозу - струм модульований довгими періодами, тривалість процедури 12-15 хв, щоденно. Проводять 1-2 курси по 15 процедур.
 * Імпульсне магнітне поле на ділянку кисті. Індукція до 20 мТл, тривалість процедури 20-30 хв. Щоденно. На курс лікування від 15 до 30 процедур.
