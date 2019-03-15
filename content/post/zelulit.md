@@ -26,14 +26,12 @@ author = "Володимир Клімчук"
  
 Упорядкувати харчування - більше вживати води (чим більше ми п'ємо води, тим менше набрякаємо). Виключити фастфуди, випічку, цукор, вживати більше овочевих салатів і зелені, горіхи. Упорядкувати фізичні навантаження. Ранішня зарядка і вечірня прогулянка зменшать набряк кінцівок. Регулярно використовувати водні процедури (басейн, контрастний душ і холодні обливання).
 
-##### [Фізіотерапевтичне](https://www.facebook.com/rodovid.center/photos/a.410236529721921/413469469398627/?type=3&__xts__%5B0%5D=68.ARAnAy5rVV2zMxwjYridYNFCpPKCa-SL-Wyhp48uvr37o-fVC-RSdSWNddjiD_PSMvjPmsKqmNSvfN5uSxy08nKp6bLZrKiZBSZnIcX45x_LKPBAB1Bj2VEMQjRFl83NXOXvOR6WoSdyvz7EgUtWW_8C7AREE-0nqGv_k7lownwm7KvLlFpklXycqr5FgQIzsl26jHwj0sF4xQXvHiuyraA6lqo2w3Pzi9Iweb-NjNYpMYZ9MS4Ag0JRyTFMjiTwNLRy9e5IjyvBrpyncAI0AsjKsoBggXHSwJxR5Mb3iy78Mx_ENOohvMGUi2bK0ZyeeSMsylnfS2Opt38tlHlgyoE&__tn__=-R) лікування.
+##### Фізіотерапевтичні методи.
 
 * Діодинамотерапія на ділянки стегон, живота. Тривалість процедури 11 хвилин, щоденно на курс лікування 20 процедур. 
 * Магнітотерапія поздовжньо і поперечно на ділянки, уражені целюлітом. Тривалість процедури 20 хв. На курс лікування 20 процедур. 
-* Масаж енергійний, глибокий з розтиранням ущільнених вузликів тривалістю 20 хв через день, на курс 10 процедур.
- 
-*[Електрофорез]
- ( https://www.facebook.com/rodovid.center/photos/a.410236529721921/418977808847793/?type=3&__xts__%5B0%5D=68.ARBqY0JSYm84j1tBa3VRaYr6_aaPZ4D8gH3NM5w-Sl56G-jdHwCPavu6knL4kbz-WDsJO3JGzD7s8aci7PAxvQcO0oHzEV5J7iMGIvi1dJiHN1405C9FbAwV9GxaydwRHV5GULBRvn1gnFUvBjnp-5azCLU0fWf_KHmyUk6_xgksqCauCsD0XFWIj2cbsEKS7AZx23vTV2AeiofyQySintcrOwaOsrsks_c-9wfUJl3teoyT7LJEtFR8WRPqjnl5_FkD2LQ3RTs3jJ3EfwbuOPQAzM1kAnKUSE4OT0IKXpaZ_3shrJZg-HNiJWDMqkc6IbcjbM8Ib8IhcizRtL1zwMk&__tn__=-R) йоду (лідази, карипаїну, карипазину) на живіт, стегна та інші ділянки. Тривалість процедури 20 хвилин. На курс лікування 20 процедур.
+* Масаж енергійний, глибокий з розтиранням ущільнених вузликів тривалістю 20 хв через день, на курс 10 процедур. 
+* Електрофорез йоду (лідази, карипаїну, карипазину) на живіт, стегна та інші ділянки. Тривалість процедури 20 хвилин. На курс лікування 20 процедур.
 
 ##### Ударно-хвильова терапія - ефективний метод лікування целюліту.
 
