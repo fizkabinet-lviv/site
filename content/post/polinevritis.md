@@ -27,7 +27,7 @@ author = "Володимир Клімчук"
 
 ##### Лікування.
  
-Для досягнення успіху потрібно проводити комплексне лікування: медикаментозне (судиннорозширюючі і протинабрякові засоби, вітаміни групи В), масаж, лікувальна фізкультура, фізіотерапевтичні методи.
+Для досягнення успіху потрібно проводити комплексне лікування: медикаментозне (судиннорозширюючі і протинабрякові засоби, вітаміни групи В), масаж, лікувальна фізкультура, [фізіотерапевтичні методи.](https://www.facebook.com/rodovid.center/photos/a.410236529721921/413469469398627/?type=3&__xts__%5B0%5D=68.ARBoI3l0kFBvwlZdeMn0UO_kigN0uACoqsmC2RrN0bNBU6aYvZ2if69Mm7OO_gaPzvt86qMte_nd4GSIN-zyxH1sFog6hF7Y_ccq9z5gc5ybKurMJY0nFRTinwvo0nERzqdNXYg6_eW0eEHW0F9aMHNsuXFrTh8er5jeMk8jta0GlmjSMiJFkqW0RMSwnkzWX_hb2qS8X7nwJN8WDucO1rv0Vmzxx2kExBHZSjmlmO_HhSw0fFveyqfJapHgUCrWz2ScanisYfQiLZiKEoe1bQvdDDda6lA71qwUwzxT3zbJhTC10V2whbR3YoK7fmfX_ISzeLGSe_OZmHeVbsoTHIQ&__tn__=-R)
   Завдання фізіотерапії: покращити кровообіг і живлення тканин в ділянці ураження, підвищити обмін речовин, знеболити, зняти набряк. Для цього застосовують:
   
  *	новокаїн – йод – електрофорез на ділянку нерва щоденно -10 процедур;
