@@ -27,4 +27,4 @@ author = "Володимир Клімчук"
 
 Ми використовуємо комплекс [фізіотерапевтичних процедур](https://www.facebook.com/rodovid.center/photos/a.410236529721921/413469469398627/?type=3&__xts__%5B0%5D=68.ARBoI3l0kFBvwlZdeMn0UO_kigN0uACoqsmC2RrN0bNBU6aYvZ2if69Mm7OO_gaPzvt86qMte_nd4GSIN-zyxH1sFog6hF7Y_ccq9z5gc5ybKurMJY0nFRTinwvo0nERzqdNXYg6_eW0eEHW0F9aMHNsuXFrTh8er5jeMk8jta0GlmjSMiJFkqW0RMSwnkzWX_hb2qS8X7nwJN8WDucO1rv0Vmzxx2kExBHZSjmlmO_HhSw0fFveyqfJapHgUCrWz2ScanisYfQiLZiKEoe1bQvdDDda6lA71qwUwzxT3zbJhTC10V2whbR3YoK7fmfX_ISzeLGSe_OZmHeVbsoTHIQ&__tn__=-R): електрофорез протибольових препаратів лазер, магнітотерапію в поєднанні з ударно – хвильовою терапією Таке поєднання фізичних факторів сприяє одужанню за п’ять - сім процедур.
 
- Лікування проводимо у Львові в клініці «Істина» *на вул. Наукова, 12а,* кабінет – [Позбавлення від болю.]({{< relref "pro-nas.md" >}}) 
+   Лікування проводимо у Львові в [Медичному цетрі Родовід]({{< relref "pro-nas.md" >}})
