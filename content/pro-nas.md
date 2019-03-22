@@ -24,5 +24,5 @@ weight = 10
 - тролейбус № 13 до зупинки *"БК ім Гната Хоткевича"*
 
 
-## [На карті](https://goo.gl/maps/47tDtesZKXz)
+<a href="https://goo.gl/maps/47tDtesZKXz" class="map-btn">На карті</a>
 
