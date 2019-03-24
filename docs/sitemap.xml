@@ -3,6 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://antidolor.lviv.ua/service/fizioterapiia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://antidolor.lviv.ua/service/dermatolohiya/</loc>
+  </url>
+  
+  <url>
+    <loc>http://antidolor.lviv.ua/service/nevrolohiya/</loc>
+  </url>
+  
+  <url>
+    <loc>http://antidolor.lviv.ua/service/travmatologiya/</loc>
+  </url>
+  
+  <url>
+    <loc>http://antidolor.lviv.ua/service/medsestrynska-opika/</loc>
+  </url>
+  
+  <url>
+    <loc>http://antidolor.lviv.ua/service/simeyna/</loc>
+  </url>
+  
+  <url>
     <loc>http://antidolor.lviv.ua/pro-nas/</loc>
   </url>
   
@@ -153,33 +177,9 @@
   </url>
   
   <url>
-    <loc>http://antidolor.lviv.ua/service/dermatolohiya/</loc>
-  </url>
-  
-  <url>
     <loc>http://antidolor.lviv.ua/</loc>
     <lastmod>2019-03-19T12:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://antidolor.lviv.ua/service/medsestrynska-opika/</loc>
-  </url>
-  
-  <url>
-    <loc>http://antidolor.lviv.ua/service/nevrolohiya/</loc>
-  </url>
-  
-  <url>
-    <loc>http://antidolor.lviv.ua/service/simeyna/</loc>
-  </url>
-  
-  <url>
-    <loc>http://antidolor.lviv.ua/service/travmatologiya/</loc>
-  </url>
-  
-  <url>
-    <loc>http://antidolor.lviv.ua/service/fizioterapiia/</loc>
   </url>
   
 </urlset>

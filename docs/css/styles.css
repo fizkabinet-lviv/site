@@ -869,8 +869,12 @@ footer.entry-meta .meta-in {
     vertical-align: middle;
     border-radius: 40px;
      background: #4db132;
-    background-image: linear-gradient(160deg, #4db132 0%, #4db132 50%, #137279 100%);
+    background-image: linear-gradient(160deg, #9232b1 0%, #4db132 50%, #137279 100%);
     background-size: 250% 100%;
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease
+}
+
+.col-sm-6{
+  padding-bottom: 15px;
 }

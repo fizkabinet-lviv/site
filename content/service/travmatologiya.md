@@ -1,5 +1,6 @@
 +++
 title = "Травматологія"
+weight = 2
 +++
 
 - [П’яткова шпора]({{< relref "pyatkova-shpora.md" >}})

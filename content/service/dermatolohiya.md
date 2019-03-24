@@ -1,5 +1,6 @@
 ﻿+++
 title = "Дерматологія"
+weight = 2
 +++
 
 - [Псоріаз]({{< relref "psorias.md" >}})
