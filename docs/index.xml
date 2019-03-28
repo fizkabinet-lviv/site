@@ -6,7 +6,7 @@
     <description>Recent content on Медичний центр Родовід</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ua</language>
-    <lastBuildDate>Tue, 19 Mar 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://antidolor.lviv.ua/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,10 +18,9 @@
       
       <guid>http://antidolor.lviv.ua/service/fizioterapiia/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/dupitren/&#34;&gt;Долонний фасціальний фіброматоз&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/bronchit/&#34;&gt;Фізіотерапія хронічних бронхітів&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/diskinesija/&#34;&gt;Дискінезії травного тракту&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/udt/&#34;&gt;Ударно-хвильова терапія&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Гостра і хронічна дорсалгія.&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
@@ -36,8 +35,7 @@
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/zelulit/&#34;&gt;Целюліт&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/vyrazka/&#34;&gt;Трофічні виразки&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/keloid/&#34;&gt;Келоїдні рубці&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/prostatit/&#34;&gt;Хронічний простатит&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/prostatit/&#34;&gt;Хронічний простатит&lt;/a&gt;</description>
     </item>
     
     <item>
@@ -50,8 +48,7 @@
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/stimulyacia/&#34;&gt;Електростимуляція після поранення&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/polinevritis/&#34;&gt;Невріти та поліневропатії &lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/radikulit/&#34;&gt;Біль в попереку&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/nevritis/&#34;&gt;Невріт лицевого нерва&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/nevritis/&#34;&gt;Невріт лицевого нерва&lt;/a&gt;</description>
     </item>
     
     <item>
@@ -65,8 +62,7 @@
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/osteoartroz/&#34;&gt;Деформуючий остеоартроз&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/vyvich/&#34;&gt;Звичний вивих плеча&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/kontraktura/&#34;&gt;Контрактура Дюпюїтрена&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/osteohondroz/&#34;&gt;Остеохондроз&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/osteohondroz/&#34;&gt;Остеохондроз&lt;/a&gt;</description>
     </item>
     
     <item>
@@ -77,8 +73,7 @@
       <guid>http://antidolor.lviv.ua/service/medsestrynska-opika/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/medopika/&#34;&gt;Медсестринська опіка. Кому довірити хворого родича?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Роль медсестри.&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;li&gt;Роль медсестри.</description>
     </item>
     
     <item>
@@ -89,8 +84,7 @@
       <guid>http://antidolor.lviv.ua/service/simeyna/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://antidolor.lviv.ua/post/simeyna-vyklyk/&#34;&gt;Сімейна медицина. Виклик лікаря додому&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Гострі стани.&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;li&gt;Гострі стани.</description>
     </item>
     
     <item>
@@ -100,6 +94,15 @@
       
       <guid>http://antidolor.lviv.ua/pro-nas/</guid>
       <description>Hаші переваги:  спектр послуг:цілодобова консультація лікаря телефоном,сімейна медицина,виклик лікаря додому, фізіотерапія та реабілітація, медсестринська опіка професійні та висококваліфіковані спеціалісти з багаторічним досвідом роботи регулярне навчання спеціалістів у провідних клініках України та Європи сучасне обладнання з програмним забезпеченням новітні методики лікування, які відповідають принципам доказової медицини орієнтація на комфорт клієнта та задоволення усіх його потреб турбота та піклування про здоров’я та самопочуття кожного клієнта доступна цінова політика   Як добратись міським транспортом:  трамвай №4, №5 до зупинки &amp;laquo;БК ім.</description>
+    </item>
+    
+    <item>
+      <title>Долонний фасціальний фіброматоз</title>
+      <link>http://antidolor.lviv.ua/post/dupitren/</link>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://antidolor.lviv.ua/post/dupitren/</guid>
+      <description>Фізіотерапевтичні чинники лікування контрактури. На початку лютого в медичний центр «Родовід»звернувся пацієнт 44 роки, львів’янин, зі скаргами на ущільнення у вигляді вузлика на долоні лівої кисті, яке супроводжувалося болями. Зі слів хворого, перші ознаки захворювання виникли біля двох років назад у вигляді невеликого ущільнення над третім пальцем лівої долоні. Не придавав цьому факту значення і до лікаря не звертався. В кінці минулого року виникли болі і незручність при фізичній роботі.</description>
     </item>
     
     <item>
