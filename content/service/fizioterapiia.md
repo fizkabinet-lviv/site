@@ -3,7 +3,7 @@ title = "Фізіотерапія"
 weight = 1
 +++
 
-- [Фізіотерапія періартритів] ({{< relref "periartrytis.md" >}})
+- [Періартрити, лікування] ({{< relref "periartrytis.md" >}})
 - [Долонний фасціальний фіброматоз]({{< relref "dupitren.md" >}})
 - [Фізіотерапія хронічних бронхітів]({{< relref "bronchit.md" >}})
 <!--more-->
