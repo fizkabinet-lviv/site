@@ -29,7 +29,7 @@ author = "Володимир Клімчук"
 
 * Ударно-хвильову терапію на сегментарну рефлекторну ділянку, процедури проводять один раз в п’ять днів, на курс лікування 5 процедур.
 
-* [Електрофорез](https://www.facebook.com/rodovid.center/photos/a.410236529721921/418977808847793/?type=3&__xts__%5B0%5D=68.ARAnoRqEMi8zelFDt4C0rfP-x6Qnr-v8jdkjNoSKyjyZNN6s7ewC1xcHncUuX7Pmp6omotrMzi03-wZbG0ZIVKD-M9uo5Vst1rt7wQnL0d26Umgos5Ybclk4RIwj1thbVZn9I0NssyL4ySNMp3ZgabIHurnLEXO3PnfqYMavGIGmx09SZMva6fRtQndfbEN976529dJ5ds1hMaymuY3zL20sKdq0wTbHji6WFwl8V-PCloGG90k1rPIaNBC11gh2_Qy8mweN56Q7ch3KqLMxGXPSxgQrUjIWDL5-YSqjfcBph3xsot35OXDP8XJtXAL__zr7lb97WnPUc_sQxq9AMqY&__tn__=-R) йоду, хлористого кальцію, еуфіліну на грудну клітину або по Вермелю.
+* [Електрофорез](https://lekar.ucoz.net/publ/elektroforez/1-1-0-3) йоду, хлористого кальцію, еуфіліну на грудну клітину або по Вермелю.
 
 * Електрофорез пелоїдів на міжлопаткову ділянку грудної клітини, щоденно, на курс лікування 15 процедур.
 
