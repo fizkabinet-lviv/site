@@ -24,8 +24,9 @@ paginate =5
     address = "Львів, вул. Лемківська, 26 (8.00-20.00)"
     year = 2019
 	rodovid = "Медичний центр Родовід"
-	rodovid_url="http://rodovid.center/"
+    rodovid_url="http://rodovid.center/"
     background = ""
+    author  = "Володимир Клімчук"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
 
