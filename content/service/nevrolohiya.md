@@ -5,7 +5,7 @@ weight = 2
 
 - [Електростимуляція після поранення]({{< relref "stimulyacia.md" >}})
 - [Невріти та поліневропатії ]({{< relref "polinevritis.md" >}})
-- [Біль в попереку] ({{< relref "Radikulit.md" >}})
+- [Біль в попереку] ({{< relref "radikulit.md" >}})
 - [Невріт лицевого нерва]({{< relref "nevritis.md" >}})
 <!--more-->
 - [Біль в шиї]({{< relref "cervikalhiya.md" >}})

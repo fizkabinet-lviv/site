@@ -23,11 +23,11 @@ author = "Володимир Клімчук"
 
 ##### Лікування. 
 
-Завдання [фізіотерапії](https://www.facebook.com/rodovid.center/photos/a.410236529721921/413469469398627/?type=3&__xts__%5B0%5D=68.ARBoI3l0kFBvwlZdeMn0UO_kigN0uACoqsmC2RrN0bNBU6aYvZ2if69Mm7OO_gaPzvt86qMte_nd4GSIN-zyxH1sFog6hF7Y_ccq9z5gc5ybKurMJY0nFRTinwvo0nERzqdNXYg6_eW0eEHW0F9aMHNsuXFrTh8er5jeMk8jta0GlmjSMiJFkqW0RMSwnkzWX_hb2qS8X7nwJN8WDucO1rv0Vmzxx2kExBHZSjmlmO_HhSw0fFveyqfJapHgUCrWz2ScanisYfQiLZiKEoe1bQvdDDda6lA71qwUwzxT3zbJhTC10V2whbR3YoK7fmfX_ISzeLGSe_OZmHeVbsoTHIQ&__tn__=-R:) надати протизапальну, трофічну, протибольову та розсмоктуючу дію, прискорити відновлення функції суглобу. Поряд з тимчасовою іммобілізацією лонгетою призначається:
+Завдання фізіотерапії надати протизапальну, трофічну, протибольову та розсмоктуючу дію, прискорити відновлення функції суглобу. Поряд з тимчасовою іммобілізацією лонгетою призначається:
 
  * діодинамотерапія на ділянку відростка плечової кістки. Струм модульований короткими та довгими періодами по 6 хвилин. Щоденно або через день. На курс лікування 8 процедур.
  * мікрохвильова терапія або електричне поле УВЧ поперечно на ліктьовий або карпальний суглоб. Тривалість процедури 10 хвилин. На курс лікування 10 процедур.
- * новокаїн – йод – [електрофорез](https://www.facebook.com/rodovid.center/photos/a.410236529721921/418977808847793/?type=3&__xts__%5B0%5D=68.ARC51shcbFtMpQ1Q1NNVbQn5TLLRfCMtkRFlsNDwU3fTZDiXsz_ohPdCPvmcpxWHlrn4zAb1wO398U7guZlq4jn1UOsLhQG9-RGkyMPJpAbQYazwsEaABKKA9DCflyX8J5IpT-YwmZzry9f9aTEOU0bFV_uGrdB6a3sxEX6z_ZpL59Ty94fPQvr5Q0uFfvHCu2uhZMaPN9J9fnXA6q_EUmeRK3pYve4Gxoit3HhUnzGjaBTULRPSivCxwsrhclXsmf8Dn_9LJ7vVMJBjGzwoYXSQVYZM4ZJwvRVOzcOdOPzBHPkF8-oCKS3jrCP6TTjDBg7iJHpa4EmPK51ETyA1HDk&__tn__=-R) на ділянку суглобу синусоїдальним випрямленим струмом 20 хвилин, щоденно. На курс лікування 15 процедур.
+ * новокаїн – йод – [електрофорез]({{< param rodovid_electroforez_url >}}) на ділянку суглобу синусоїдальним випрямленим струмом 20 хвилин, щоденно. На курс лікування 15 процедур.
  * магнітотерапія на ділянку плечового суглоба поперечно, магнітна індукція 20 мТл, тривалість процедури 20 хвилин. Щоденно, на курс лікування 15 процедур.
  * ударно - хвильова терапія на ділянку суглобу, передпліччя.
  
