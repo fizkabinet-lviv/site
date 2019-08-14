@@ -2,6 +2,7 @@
 title = "Сімейна медицина"
 weight = 3
 +++
+- [Лікування дітей.]({{< relref "likuvannya-ditey.md" >}})
 - [Сімейна медицина. Виклик лікаря додому]({{< relref "simeyna-vyklyk.md" >}})
 - [Гострі стани. Їхати чи не їхати в лікарню?]({{< relref "hostri-stan.md" >}})
 <!--more-->
