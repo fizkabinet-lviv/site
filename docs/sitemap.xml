@@ -31,20 +31,13 @@
   </url>
   
   <url>
-    <loc>http://antidolor.lviv.ua/post/</loc>
-    <lastmod>2019-08-13T12:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://antidolor.lviv.ua/post/childcare/</loc>
+    <lastmod>2019-08-14T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://antidolor.lviv.ua/post/likuvannya-ditey/</loc>
     <lastmod>2019-08-13T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://antidolor.lviv.ua/</loc>
-    <lastmod>2019-08-13T12:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -198,12 +191,24 @@
   </url>
   
   <url>
+    <loc>http://antidolor.lviv.ua/post/</loc>
+    <lastmod>2019-08-14T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://antidolor.lviv.ua/service/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://antidolor.lviv.ua/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://antidolor.lviv.ua/</loc>
+    <lastmod>2019-08-14T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
